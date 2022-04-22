@@ -5,6 +5,13 @@ body>footer {
     padding-bottom: 2%;
     background-color: var(--color-b);
 }
+body>footer a {
+    color : white;
+}
+body > footer a:hover{
+    color: yellow;
+    border-bottom: 1 px solid yellow;
+}
 
 body > footer ul.validadores {
     display: flex;

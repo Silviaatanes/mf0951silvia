@@ -14,10 +14,11 @@
     --------------------------------
 
     */
-    /* Logo olímpico 1020 x 495 pixeles */
-    --url-logo-index: url('../svg/Olympic_Rings_clip_art.svg');
-    --url-logo-header: url('../../../svg/Olympic_Rings_clip_art.svg');
-    --wlogo-header: 7.21rem;
+    /* Logo gato 130.42 x 106.52 pixeles */
+    --url-logo-index: url('../svg/logo.svg');
+    --url-logo-header: url('../../../svg/logo.svg');
+    --wlogo-header: 4.28rem;
+    /* regla de tres (130.42/106.52 * logo header)
     /* Efecto al hover */
     --logo-filter--hover: hue-rotate(180deg);
     /* Ejemplo de filtro múltiple */
