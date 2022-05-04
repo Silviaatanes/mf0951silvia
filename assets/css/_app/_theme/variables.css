@@ -20,7 +20,7 @@
 
     /* ratio del logo 1020/495 */
     /* ancho del logo = --height-header * ratio */
-    --wlogo-header: 10rem;
+    --wlogo-header: 7.21rem;
     /* Efecto al hover */
     --logo-filter--hover: hue-rotate(180deg);
     /* Ejemplo de filtro múltiple */
